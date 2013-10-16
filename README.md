@@ -1,7 +1,7 @@
 celt-python
 ===========
 
-Minimal Python bindings for the CELT audio codec. Ported from [mumble-ruby](https://github.com/perrym5/mumble-ruby) with added decoder functionality.
+Minimal Python bindings for the CELT audio codec. Ported from [celt-ruby](https://github.com/perrym5/celt-ruby) with added decoder functionality.
 
 Usage
 -----
